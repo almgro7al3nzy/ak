@@ -1,0 +1,10 @@
+{"version_code":1,
+"AdsTitle":"Developer",
+"content":"
+<p  style='text-align: center'><font color='blue'><b>For your and your family's safety, please follow the instructions of Ministry of Health officials.
+🙏 Abbas Al-Anazi wishes you health and wellness.</b></font></p>",
+"ButtonUpdate":"Message",
+"ButtonLater": "Later",
+"AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
+"CancelLable": true,
+"AdsTime":1434}
