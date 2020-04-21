@@ -1,0 +1,103 @@
+<style>
+div.scrollmenu {
+  background-color: #0f8634;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+
+.mywtsp {
+    display: block;
+    line-height: 24px;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    height: 40px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 10px;
+    background: #34af23;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    width: 50%;
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, .3);
+    animation: footer infinite linear 1s;
+    -webkit-transform: translate3d(30%,0,0);
+    transform: translate3d(30%,0,0);
+    position: fixed;
+}
+	.mywtsp :active {
+	box-shadow: none
+	}
+	@-webkit-keyframes footer {
+	from {
+	-webkit-transform: rotateZ(0)
+	}
+	25% {
+	-webkit-transform: rotateZ(1.5deg)
+	}
+	50% {
+	-webkit-transform: rotateZ(0deg)
+	}
+	75% {
+	-webkit-transform: rotateZ(-1.5deg)
+	}
+	to {
+	-webkit-transform: rotateZ(0)
+	}}
+	
+.mymsgr {
+    display: block;
+    line-height: 24px;
+    position: fixed;
+    left: 50%;
+    bottom: 0px;
+    height: 40px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 10px;
+    background: #34af23;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    width: 50%;
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, .3);
+    animation: footer infinite linear 1s;
+    -webkit-transform: translate3d(30%,0,0);
+    transform: translate3d(30%,0,0);
+    position: fixed;
+}
+	.mymsgr :active {
+	box-shadow: none
+	}
+	@-webkit-keyframes footer {
+	from {
+	-webkit-transform: rotateZ(0)
+	}
+	25% {
+	-webkit-transform: rotateZ(1.5deg)
+	}
+	50% {
+	-webkit-transform: rotateZ(0deg)
+	}
+	75% {
+	-webkit-transform: rotateZ(-1.5deg)
+	}
+	to {
+	-webkit-transform: rotateZ(0)
+	}}
+</style>
