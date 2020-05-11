@@ -1,4 +1,4 @@
-{"version_code":453429,
+{"version_code":1,
 "AdsTitle":"Developer",
 "content":"
 <p  style='text-align: center'><font color='red'><b>Foreign test message new release</b></font></p>
@@ -7,4 +7,4 @@
 "ButtonLater": "Later",
 "AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
 "CancelLable": true,
-"AdsTime":1}
+"AdsTime":1434}
