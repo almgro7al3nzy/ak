@@ -1,10 +1,10 @@
 {"version_code":453429,
-"AdsTitle":"المطور",
+"AdsTitle":"Developer",
 "content":"
 <p  style='text-align: center'><font color='red'><b>Foreign test message new release</b></font></p>
 <p  style='text-align: center'><font color='green'><b>Issue number V8.50</b></font></p>",
-"ButtonUpdate":"مراسلة",
-"ButtonLater": "لاحقاً",
+"ButtonUpdate":"Message",
+"ButtonLater": "Later",
 "AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
 "CancelLable": true,
 "AdsTime":1}
