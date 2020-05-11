@@ -1,8 +1,8 @@
 {"version_code":453429,
 "AdsTitle":"المطور",
 "content":"
-<p  style='text-align: center'><font color='red'><b>من اجل سلامتك وسلامة عائلتك يُرجى اتباع ارشادات المسؤلين في  وزارة الصحة</b></font></p>
-<p  style='text-align: center'><font color='green'><b>🙏 عباس العنزي  يتمنى لكم الصحة والعافية.</b></font></p>",
+<p  style='text-align: center'><font color='red'><b>رسالة تجريبية الاصدار الجديد </b></font></p>
+<p  style='text-align: center'><font color='green'><b>رقم الاصدار V8.50</b></font></p>",
 "ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
