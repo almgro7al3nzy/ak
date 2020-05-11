@@ -1,9 +1,8 @@
 {"version_code":453429,
 "AdsTitle":"Developer",
 "content":"
-<p  style='text-align: center'><font color='blue'><b>For your and your family's safety, please follow the instructions of Ministry of Health officials.
-🙏 Abbas Al-Anazi wishes you health and wellness.</b></font></p>",
-"ButtonUpdate":"Message",
+<p  style='text-align: center'><font color='red'><b>رسالة تجريبية اجنبية الاصدار الجديد </b></font></p>
+<p  style='text-align: center'><font color='green'><b>رقم الاصدار V8.50</b></font></p>"ButtonUpdate":"Message",
 "ButtonLater": "Later",
 "AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
 "CancelLable": true,
