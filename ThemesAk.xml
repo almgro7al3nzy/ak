@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <themes>
-<data xmls="https://rawcdn.githack.com/almgro7al3nzy/THEMES-WT/e2fb65ef1f996e911637e35879ede1bd63bc3c69/xml" walls="https://rawcdn.githack.com/almgro7al3nzy/THEMES-WT/e2fb65ef1f996e911637e35879ede1bd63bc3c69/walls/" scs="https://raw.githubusercontent.com/almgro7al3nzy/THEMES-WT/master/screens/"/>
+<data xmls="https://github.com/almgro7al3nzy/THEMES-WT/tree/master/xml" walls="https://rawcdn.githack.com/almgro7al3nzy/THEMES-WT/tree/master/walls" scs="https://rawcdn.githack.com/almgro7al3nzy/THEMES-WT/tree/master/screens"/>
 
 <theme>
 <title>Mohammed_Al_Enazi</title>
