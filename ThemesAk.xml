@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <themes>
-<data xmls="https://github.com/almgro7al3nzy/THEMES-WT/tree/master/xml" walls="https://rawcdn.githack.com/almgro7al3nzy/THEMES-WT/tree/master/walls" scs="https://rawcdn.githack.com/almgro7al3nzy/THEMES-WT/tree/master/screens"/>
-
-<theme>
-<title>Mohammed_Al_Enazi</title>
-<date>Abo2Msh3al</date>
-</theme>
-
-<theme>
-<title>Abo2Msh3al</title>
-<date>Abo2Msh3al</date>
-</theme>
+<data xmls="https://yothemes.yousefalbasha.com/xml/" walls="https://yothemes.yousefalbasha.com/walls/" scs="https://yothemes.yousefalbasha.com/screens/"/>
 
 <theme>
 <title>YoDestinyDark</title>
