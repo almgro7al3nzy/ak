@@ -1,8 +1,8 @@
-{"version_code":1,
+{"version_code":453429,
 "AdsTitle":"المطور",
 "content":"
-<p  style='text-align: center'><font color='red'><b>رسالة تجريبية الاصدار الجديد </b></font></p>
-<p  style='text-align: center'><font color='green'><b>رقم الاصدار V8.50</b></font></p>",
+<p  style='text-align: center'><font color='red'><b>يسرني أن أتقدم إليكم بأصدق التهاني\n بمناسبة عيد الفطر المبارك  ،\n سائلا المولى ان يجعل أيامكم سعيدة،\nوأن يعيده علينا\nوعليكم أعواما عديدة،\n وازمنة مديدة، وأنتم في أحسن حال .\nوان يرفع عنا وعنكم هذا الوباء\n</b></font></p>
+<p  style='text-align: center'><font color='green'><b>خليك بل بيت</b></font></p>",
 "ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
