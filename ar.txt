@@ -3,7 +3,7 @@
 "content":"
 <p  style='text-align: center'><font color='red'><b>تابع اخر تحديثات تطبيق الواتساب بلس عبر قناة التلجرام</b></font></p>
 <p  style='text-align: center'><font color='green'><b>اشترك في القناة لكل جديد</b></font></p>",
-"ButtonUpdate":"مراسلة",
+"ButtonUpdate":"انضمام",
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://t.me/Abo2Msh3al",
 "CancelLable": true,

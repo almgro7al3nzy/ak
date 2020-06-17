@@ -3,7 +3,7 @@
 "content":"
 <p  style='text-align: center'><font color='red'><b>Follow the latest updates of the WhatsApp Plus application via the Telegram channel</b></font></p>
 <p  style='text-align: center'><font color='green'><b>Subscribe to the channel for all new</b></font></p>",
-"ButtonUpdate":"Message",
+"ButtonUpdate":"Subscribe",
 "ButtonLater": "Later",
 "AdsUrl":"https://t.me/Abo2Msh3al",
 "CancelLable": true,
