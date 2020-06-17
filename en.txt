@@ -1,15 +1,10 @@
-{"version_code":11,
+{"version_code":453429,
 "AdsTitle":"Developer",
 "content":"
-<p  style='text-align: center'><font color='red'><b>I am pleased to offer you my sincere congratulations
-     On the occasion of Eid Al-Fitr,
-Asking the Lord to make your days happy,
-And return it to us and you for many years
-And long times, and you are at best.
-And to remove this epidemic from us and you</b></font></p>
-<p  style='text-align: center'><font color='green'><b>Stay in house</b></font></p>",
+<p  style='text-align: center'><font color='red'><b>Follow the latest updates of the WhatsApp Plus application via the Telegram channel</b></font></p>
+<p  style='text-align: center'><font color='green'><b>Subscribe to the channel for all new</b></font></p>",
 "ButtonUpdate":"Message",
 "ButtonLater": "Later",
-"AdsUrl":"https://wa.me/962790791675?text=AKWhatsApp",
+"AdsUrl":"https://t.me/Abo2Msh3al",
 "CancelLable": true,
-"AdsTime":1434}
+"AdsTime":143414}
