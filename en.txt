@@ -1,4 +1,4 @@
-{"version_code":453518,
+{"version_code":453520,
 "AdsTitle":"Developer",
 "content":"
 <p  style='text-align: center'><font color='red'><b>Follow the latest updates of the WhatsApp Plus application via the Telegram channel</b></font></p>
@@ -7,4 +7,4 @@
 "ButtonLater": "Later",
 "AdsUrl":"https://t.me/Abo2Msh3al",
 "CancelLable": true,
-"AdsTime":143414}
+"AdsTime":1}
