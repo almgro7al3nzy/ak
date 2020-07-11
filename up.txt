@@ -1,6 +1,6 @@
 {"version_code":840,"content":"
 
-<p style='text-align: center'><font color='blue'><b>ÇáÅÕÏÇÑ 8.35 | Version 8.35</b></font></p>
+<p style='text-align: center'><font color='blue'><b>ÇáÅÕÏÇÑ 8.55 | Version 8.55</b></font></p>
 
 <li>[ÍÕÑíÇğ] ÎíÇÑ İÕá ÇáãÍÇÏËÇÊ/ÇáãÌãæÚÇÊ Åáì ÔÇÔÊíä</li>
 <li>[ÅÖÇİÉ] ÓÍÈ ÇáÏÑÏÔÉ İí ÇáÔÇÔÉ ÇáÑÆíÓíÉ áÑÄíÉ ÇáÅÌÑÇÁÇÊ ÇáÓÑíÚÉ</li>
@@ -39,5 +39,5 @@
 <li>[Base] 2.20.123</li>
 <li>[. . . ] Other improvements and fixes</li>
 
-","url":"https://pluswt.net/last-updates-whatsapp-plus-and-gb/"
+","url":"https://www.almgro7al3nzy.com/"
 }
