@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'50', 'ver3':'\nتجريبي اجنبي\n', 'dli':'https://www.almgro7al3nzy.com/ak'}
+{'ver1':'8', 'ver2':'55', 'ver3':'\nUpdate validity extension\n', 'dli':'https://www.almgro7al3nzy.com/ak'}
