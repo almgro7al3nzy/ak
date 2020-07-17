@@ -1,0 +1,43 @@
+{"version_code":453517,"content":"
+
+<p style='text-align: center'><font color='blue'><b>ÇáÅÕÏÇÑ 8.55 | Version 8.55</b></font></p>
+
+<li>[ÍÕÑíÇğ] ÎíÇÑ İÕá ÇáãÍÇÏËÇÊ/ÇáãÌãæÚÇÊ Åáì ÔÇÔÊíä</li>
+<li>[ÅÖÇİÉ] ÓÍÈ ÇáÏÑÏÔÉ İí ÇáÔÇÔÉ ÇáÑÆíÓíÉ áÑÄíÉ ÇáÅÌÑÇÁÇÊ ÇáÓÑíÚÉ</li>
+<li>[ÅÖÇİÉ] äãØ ÇáÔÑíØ ÇáÓİáí áæÇÌåÉ ÇáãÓÊÎÏã ÇáÑÆíÓíÉ</li>
+<li>[ÅÖÇİÉ] ÇáæÖÚ ÇáãÙáã áÜ æÇÊÓÇÈ æ ÅÚÏÇÏÊ ÇáÈáÓ</li>
+<li>[ÅÖÇİÉ] ÊäÒíá ÇáÇíãæÌí ãä ÅÚÏÇÏÊ ÇáÈáÓ</li>
+<li>[ÅÖÇİÉ] ÊÍßã ÈÇáÑãæÒ ÇáÊÚÈíÑíÉ áäÙÇã ÇáåÇÊİ áÜ æÇÊÓÇÈ</li>
+<li>[ÊÍÏíË] ÊÕãíã æÇÌåÉ ÇáÈÕãÉ</li>
+<li>[ÊÍÏíË] ÊÕÛíÑ ÍÌã ÇáÊØÈíŞ</li>
+<li>[ÊÍÏíË] ÇáÃÏÇÁ æÇáÓÑÚÉ</li>
+<li>[ÅÕáÇÍ] ÎÕæÕíÉ ãäÚ ÇáÃÖÇİÉ Çáì ÇáãÌãæÚÇÊ</li>
+<li>[ÅÕáÇÍ] ÊÙåÑ ÕæÑ ÇáÃÔÎÇÕ ÈÔßá ÛíÑ ÕÍíÍ İí äãØ ÍÇáÉ ÇäÓÊŞÑÇã</li>
+<li>[ÅÕáÇÍ] ÚÏã ÙåæÑ äÕ ÇáÍÇáÉ ÃÍíÇäÇğ ÚäÏ ÇáÑÏ Úáì ÇáÍÇáÉ</li>
+<li>[ÅÕáÇÍ] ÊÛííÑ ÑãæÒ ÔÑíØ ÇáÃÏæÇÊ Åáì Çááæä ÇáÃÈíÖ ÈÔßá ÚÔæÇÆí</li>
+<li>[ÅÕáÇÍ] ÚÏã ÊÍãíá ÎÇÏã ÇáËíãÇÊ</li>
+<li>[ÅÕáÇÍ] ÙåæÑ ÎØ ÃÓæÏ ÚäÏ ÇáÊãÑíÑ ÚäÏ Êãßíä äãØ ÍÇáÉ ÇäÓÊŞÑÇã</li>
+<li>[ŞÇÚÏÉ] 2.20.123</li>
+<li>[. . .] ÊÍÓíäÇÊ æÅÕáÇÍÇÊ ÃÎÑì</li>
+<br>
+<li>[Exclusive] Option to Separate Chats / Groups conversations into two screens</li>
+<li>[Added] Swipe chat row in home screen to see quick actions</li>
+<li>[Added] Use new WhatsApp Fingerprint UI</li>
+<li>[Added] Bottom bar style option to Home UI</li>
+<li>[Added] Dark Mode for WhatsApp and Plus Settings</li>
+<li>[Added] Download Emoji variants from Plus Settings</li>
+<li>[Added] Option to use Phone system emoji variant for WhatsApp</li>
+<li>[Update] Use new WhatsApp Fingerprint UI</li>
+<li>[Update] Reducing APK size</li>
+<li>[Update] Performance and speed</li>
+<li>[Fixed] Privacy of adding to groups</li>
+<li>[Fixed] People pictures shows incorrectly in Instagram status style</li>
+<li>[Fixed] Status text not appearing sometimes when replying to status</li>
+<li>[Fixed] Toolbar icons changing to white randomly</li>
+<li>[Fixed] Themes Server not loading</li>
+<li>[Fixed] Black line when scrolling when Instagram status style is enabled</li>
+<li>[Base] 2.20.123</li>
+<li>[. . . ] Other improvements and fixes</li>
+
+","url":"https://www.almgro7al3nzy.com/"
+}
