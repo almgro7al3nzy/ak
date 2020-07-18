@@ -1,0 +1,12 @@
+{"version_code":453517,
+"AdsTitle":"تحديث جديد",
+"content":"
+<p  style='text-align: center'><font color='blue'><b>تحديث جديد إصدار 8.35</b></font></p>
+<ul style='text-align: right; direction:rtl;'>
+<li>يتوفر تحديث جديد يرجى التحميل</li>
+</ul>",
+"ButtonUpdate":"تحميل التحديث",
+"ButtonLater": "لاحقاً",
+"AdsUrl":"https://pluswt.net/last-updates-whatsapp-plus-and-gb/",
+"CancelLable": true,
+"AdsTime":300}
