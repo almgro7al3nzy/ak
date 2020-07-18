@@ -1,12 +1,12 @@
-{"version_code":453517,
-"AdsTitle":"تحديث جديد",
+{"version_code":453520,
+"AdsTitle":"updet55",
 "content":"
-<p  style='text-align: center'><font color='blue'><b>تحديث جديد إصدار 8.35</b></font></p>
+<p  style='text-align: center'><font color='blue'><b>TEST ENGLESH</b></font></p>
 <ul style='text-align: right; direction:rtl;'>
-<li>يتوفر تحديث جديد يرجى التحميل</li>
+<li>test englesh</li>
 </ul>",
 "ButtonUpdate":"تحميل التحديث",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"https://pluswt.net/last-updates-whatsapp-plus-and-gb/",
+"AdsUrl":"https://www.almgro7al3nzy.com/",
 "CancelLable": true,
 "AdsTime":300}
