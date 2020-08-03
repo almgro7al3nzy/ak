@@ -1,0 +1,845 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css" rel="stylesheet">
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
+<SCRIPT TYPE="text/javascript"> 
+function disableselect(e){
+return false
+} 
+function reEnable(){
+return true
+} 
+//if IE4+
+document.onselectstart=new Function ("return false") 
+//if NS6
+if (window.sidebar){
+document.onmousedown=disableselect
+document.onclick=reEnable
+}
+</SCRIPT>
+</head>
+<body>
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+<div class="collapsible-header active"><i class="material-icons">wb_sunny</i>V8.35</div>
+<div class="collapsible-body"><p><b>Date: </b> 22-May-2020<br /><br />
+&bull; [Added] Group chats now have separate tab (Optional)</br>
+&bull; [Added] Separate Group Tab for Bottom Bar</br>
+&bull; [Added] Dubai (Arabic) Font</br>
+&bull; [Improvement] Switch Light/Dark Mode will SAVE your current settings and restore it when switching</br>
+&bull; [Improvement] Fonts preview</br>
+&bull; [Fixed] "App Not Installed" error</br>
+&bull; [Fixed] Fingerprint timeout randomly switches to "Immediately"</br>
+&bull; [Fixed] Swipe between screens when Swipe Row is enabled</br>
+&bull; [Fixed] Hide Second Tick</br>
+&bull; [Fixed] IG Status disappearing</br>
+&bull; [Fixed] WhatsApp emojis/stickers show in phone gallery</br>
+&bull; [Fixed] Bottom bar not working in Urdu language</br>
+&bull; [Fixed] Group description not clear in Dark Mode</br>
+&bull; [Fixed] Custom Privacy checkbox not showing in RTL languages</br>
+&bull; [Fixed] Other bugs</br>
+&bull; [Misc] Improved (Arabic, Urdu, German, Turkish, Spanish, Russian) Translations</br>
+&bull; [Note:] Returned default UI to Tabs<br /><a style font-weight: bold; text-decoration: underline; color: #c7254e; background-color: #f9f2f4">Known bug:</a><i> Unread counter flicker when group tab enabled</a>
+</div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">fitness_center</i>V8.31</div>
+<div class="collapsible-body"><p><b>Date: </b> 09-May-2020<br /><br />
+&bull; [Base Update] 2.20.123 - Play Store</br>
+&bull; [Exclusive] Option to Separate Chats / Groups conversations into two screens!</br>
+&bull; [Added] Swipe chat row in home screen to see quick actions</br>
+&bull;[Added] Use new WhatsApp Fingerprint UI</br>
+&bull; [Added] Bottom bar style option to Home UI</br>
+&bull; [Added] Dark Mode for WhatsApp and YoSettings</br>
+&bull; [Added] Download Emoji variants from YoSettings</br>
+&bull; [Added] Option to use Phone system emoji variant for WhatsApp</br>
+&bull; [Improvement] Reduce APK size to 33mb!</br>
+&bull; [Improvement] Performance and speed</br>
+&bull; [Fixed] People pictures shows incorrectly in Instagram status style</br>
+&bull; [Fixed] Status text not appearing sometimes when replying to status</br>
+&bull; [Fixed] Toolbar icons changing to white randomly</br>
+&bull; [Fixed] YoThemes Server not loading</br>
+&bull; [Fixed] Black line when scrolling when Instagram status style is enabled</br>
+&bull; [] Other improvements and fixes</br>
+</div>
+</li>
+<li>
+<div class="collapsible-header active"><i class="material-icons">fitness_center</i>V8.25</div>
+<div class="collapsible-body"><p><b>Date: </b> 17-Feb-2020<br /><br />
+&bull; [Added] Option to Enable 5-min status/story</br>
+&bull; [Added] Option to Increase forward limit to 250! (instead of 5)</br>
+&bull; [Added] Increased Delete message time (delete for everyone) to 100 days!</br>
+&bull; [Fixed] Hidden chats calls visible in Calls tab</br>
+&bull; [Fixed] Live Location</br>
+&bull; [Fixed] Restore messages </br>
+&bull; [Fixed] "Mark as Seen" and saving incorrect status/story</br>
+&bull; [Fixed] Black ticks instead of blue on some phones</br>
+&bull; [Fixed] Bouncing/flicker text in home screen</br>
+&bull; [Fixed] Old emojis has missing emojis</br>
+&bull; [Fixed] Text Status not showing font style</br>
+&bull; [Fixed] IG Statuses style crash</br>
+&bull; [Fixed] IG Statuses style image background issue</br>
+&bull; More bug fixes and improvements!
+</div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">widgets</i>V8.20</div>
+<div class="collapsible-body"><p><b>Date: </b> 11-Feb-2020<br /><br />
+&bull; [Base Update] 2.20.11</br>
+&bull; [Exclusive] Click to Mark Status as Viewed!</br>
+&bull; [[Added]] Go To First Message in Chats</br>
+&bull; [Enabled] New emojis </br>
+&bull; [[Fixed]] Click to Mark Status/Story as Viewed!<br />
+&bull; [[Fixed]] Live Location crashes<br />
+&bull; [[Fixed]] The BUGS on preview version<br />
+&bull; [[Fixed]] Contact names not showing in Status privacy when using Dark themes<br />
+&bull; [[Fixed]] Themes does not install/apply in Android 10<br />
+&bull; [[Fixed]] Chat divider dividers re-appear after search<br />
+&bull; [[Fixed]] In-Chat translation not working<br />
+&bull; <a style="font-weight: bold; text-decoration: underline; color: #c7254e; background-color: #f9f2f4">Important note,<i> Dark Mode not activated YET because still not stable</a></i></br>
+&bull; [Misc] More bug fixes and improvements!
+</div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">wb_sunny</i>V8.12</div>
+<div class="collapsible-body"><p><b>Date: </b> 12-November-2019<br /><br />
+&bull; [Base Update] 2.19.291</br>
+&bull; [[Added]] Instagram-lilke Store you can enable it from Home Screen >> Header</br>
+&bull; [[Added]] Disable clicking on "WhatsApp"</br>
+&bull; [[Added]] Attention when press on Airplane</br>
+&bull; [[Added]] Hide Muted Status update</br>
+&bull; [[Added]] Hidden chat will not show in home unread counterHide Viewed Status update</br>
+&bull; [[Added]] Hide Recent Status update</br>
+&bull; [Misc] More bug fixes and improvements!
+</div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">fitness_center</i>V8.05</div>
+<div class="collapsible-body"><p><b>Date: </b> 05-October-2019<br /><br />
+&bull; [Enabled] Stickers in photos ( emojis / stickers)</br>
+&bull; [Enabled] Enable archive chat option in 3 dots </br>
+&bull; [Enabled] Scan bar code to add contact </br>
+&bull; [Re-Add] Save profile picture</br>
+&bull; [[Fixed]] contact online toast<br />
+&bull; [[Fixed]] Send in Full resolution is not working.<br />
+&bull; [[Fixed]] Preview color when have a photo background<br />
+&bull; [[Fixed]] Proximity sensor (when disabled) not working<br />
+&bull; [[Fixed]] crash for Android 4.4 users<br />
+&bull; [[Fixed]] always online is not working<br />
+&bull; [[Fixed]] 80% some are facing status download issue.. (download previous status).<br />
+</div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">loyalty</i>V8.0</div>
+<div class="collapsible-body"><p><b>Date: </b> 07-Septembe-2019<br /><br />
+&bull; [Base Update] 2.19.230</br>
+&bull; [NEW] FouadMods Settings design</br>
+&bull; [NEW] Live preview of your color changes!</br>
+&bull; [[Added]] Airplane mode âœˆï¸ (disable whatsapp messages when you need!)</br>
+&bull; [[Added]] Hidden chat will not show in home unread counter</br>
+&bull; [[Added]] Hidden chats will not show in "Forward to..." screen. (You can re-enable from Hidden Chats Settings)</br>
+&bull; [[Added]] Option to clear WA database backups</br>
+&bull; [[Fixed]] More bug fixes and improvements!<br />
+&bull; [Misc] Many other things that I forgot :p<br />
+&bull; [Misc] Enjoy and discover by yourself!
+</div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">fitness_center</i>V7.99</div>
+<div class="collapsible-body"><p><b>Date: </b> 21-june-2019<br /><br />
+&bull; [[Added]] More Anti-BAN.<br />
+<a style="font-weight: bold; text-decoration: underline; color: #c7254e; background-color: #f9f2f4">Important note,<i> if you have been banned before:</a><br />1- Take Chats Backup<br />2- Uninstall/remove WhatsApp first<br />3- Install V7.99 and Verify number again.</i></br>
+&bull; [[Fixed]] Not enough space message<br />
+&bull; [[Fixed]] Recording Crash<br />
+&bull; [[Fixed]] com.yowa cannot add custom stickers<br />
+&bull; [[Fixed]] Deleted message icon not showing<br />
+&bull; [[Fixed]] White theme Icons in Voice/Video Call<br />
+&bull; [[Fixed]] Google Play Service error message on registration
+</div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">spellcheck</i>V7.96</div>
+<div class="collapsible-body"><p><b>Date: </b> 16-june-2019<br /><br />
+&bull; [Base Update] Base Update 2.19.150<br />
+&bull; [Exclusive] Anti-BAN.<br />
+<a style="font-weight: bold; text-decoration: underline; color: #c7254e; background-color: #f9f2f4">Important note,<i> if you have been banned before:</a><br />1- Take Chats Backup<br />2- Uninstall/remove WhatsApp first<br />3- Install V7.96 and Verify number again.</i></br><br />
+&bull; [Exclusive] Exclusive Status Splitter âœ‚ï¸, Split long videos to 30 seconds parts ðŸŽžï¸<br />
+&bull; [[Added]] Missing Old emojis (iOS)<br />
+&bull; [Enabled] Ignore Archived chats (Settings > Notifications)<br />
+&bull; [Enabled] Frequently forwarded tag on messages forwarded 5+ times<br />
+&bull; [Enabled] See how many times you forwarded a message (Select > info)<br />
+&bull; [Improved] Anti-ban measures<br />
+&bull; [Improved] Performance and reduced lag<br />
+&bull; [Improved] Faster opening app time<br />
+&bull; [[Fixed]] Anti-delete Status/Messages option not disabling<br />
+&bull; [[Fixed]] Hidden chats show in widget<br />
+&bull; [[Fixed]] Random crashes when a notification arrives<br />
+&bull; [ALERT]ðŸ—‘ï¸ Delete message time back to: 1hr 30 mins ðŸš«<br />
+&bull; [ALERT] Forward limit back to: 5<br />
+&bull; [Removed] 5-minute status option
+</div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">star</i>V7.92</div>
+<div class="collapsible-body"><p><b>Date: </b> 25-May-2019<br /><br />
+&bull; <b>[[Added]]</b> Extended Expiry<br />
+&bull; <b>[Removed]</b> Annoying Update WhatsApp message<br />
+</p></div>
+</li>
+<li>
+<li>
+<div class="collapsible-header"><i class="material-icons">brush</i>V7.90</div>
+<div class="collapsible-body"><p><b>Date: </b> 9-March-2019<br /><br />
+&bull; [Base Update] 2.19.34</br>
+&bull; [Exclusive] Know Deleted Status (ðŸš« next to time)!</br>
+&bull; [Exclusive] Custom Online toast! Enable for specific people (find it in Contact Profile)</br>
+&bull; [[Added]] Meeting MOD to pause internet for whatsapp only (Option 5.0.6)<br />
+&bull; [[Added]] Change Date Pending msg in story color (Option 2.1.16)</br>
+&bull; [[Added]] Change Status Seen Circle color (Option 2.1.17)</br>
+&bull; [[Added]] Change Status UnSeen Circle color (Option 3.1.18)</br>
+&bull; [[Added]] Option to show/hide Muted Story updates (Option 2.3.9)<br />
+&bull; [[Added]] Option to show/hide Viewed Story updates (Option 2.3.10)<br />
+&bull; [[Added]] Option to show/hide Recent Story updates (Option 2.3.11)<br />
+&bull; [[Added]] Option to show/hide Frequently contacted (Option 3.3.9)<br />
+&bull; [[Added]] Option to show/hide Other contacts (Option 3.3.10)<br />
+&bull; [[Added]] Option to show/hide Recent chats (Option 3.3.11)<br />
+&bull; [[Added]] Option to pin group description to chat (Chat 3-dot menu > Group Description) </br>
+&bull; [[Added]] Change Deleted msg icon color (Option 3.1.17)</br>
+&bull; [[Added]] Support to download themes with home wallpaper from YoThemes Store</br>
+&bull; [[Fixed]] Status Saving button issues</br>
+&bull; [[Fixed]] Status incorrect story saving</br>
+&bull; [[Fixed]] Calls privacy not saving chosen list</br>
+&bull; [[Fixed]] Pics in chat (Inside) not working properly</br>
+&bull; [[Fixed]] Random crashes in conversation</br>
+&bull; [[Fixed]] Random Android O+ emoji crashes</br>
+&bull; [ALERT] Anti-Delete for Messages and Status by default (turn off if you want).</br>
+&bull; [Misc] More bug fixes and improvements!
+</div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">fitness_center</i>V7.81</div>
+<div class="collapsible-body"><p><b>Date: </b> 18-December-2018<br /><br />
+&bull; [Base Update] 2.18.361</br>
+&bull; [Exclusive] You can add Custom Stickers from Play Store to all packages! (WhatsaApp, FMWhatsApp, FMWhatsApp 2)<br />
+&bull; [[Added]] Option to show/hide Frequently contacted (Option 1.3.12)<br />
+&bull; [[Added]] Option to show/hide Other contacts (Option 1.3.13)<br />
+&bull; [[Added]] Option to show/hide Recent chats (Option 1.3.14)<br />
+&bull; [[Added]] Option to show/hide Muted Story updates (Option 2.3.9)<br />
+&bull; [[Added]] Option to show/hide Viewed Story updates (Option 2.3.10)<br />
+&bull; [[Added]] Option to show/hide Recent Story updates (Option 2.3.11)<br />
+&bull; [Notes] GBwhatsApp now is called a FMWhatsApp 2<br />
+&bull; [Enabled] Reply privately in Groups (select message>3-dot menu)<br />
+&bull; [Enabled] Stickers<br />
+&bull; [[Added]] New Emojis<br />
+&bull; [[Added]] Disable "Forward" tag option (Fouad MODS>Privacy>Disable Forwarded)<br />
+&bull; [Re-[Added]] Anti-Delete Status/Story option (Fouad MODS>Privacy>Anti-Delete Status)<br />
+&bull; [[Added]] Vibrate option for Hidden chats (click gear icon in Hidden chats page)<br />
+&bull; [[Added]] In-App Language changer support for Android 8.0+ (Option 1.3.0)<br />
+&bull; [[Added]] Hidden chats will not show in "Calls" tab log<br />
+&bull; [[Added]] Document bubble now applies bubble text color!<br />
+&bull; [[Added]] Speed improvements in YoThemes Store<br />
+&bull; [[Added]] Password settings are now protected also when app is locked<br />
+&bull; [[Added]] Increase Forward limit to 100 chats (USE AT OWN RISK!)<br />
+&bull; [[Added]] Stickers bubble takes color automatically<br />
+&bull; [[Added]] Confirm message before clearing recent emojis<br />
+&bull; [Improved] WhatsApp AppLock<br />
+&bull; [Improved] Pics Outside Bubble performance<br />
+&bull; [Improved] When Hide Contact name is activated, contact name will not show in recents<br />
+&bull; [Improved] Reduced lags and more speed!<br />
+&bull; [[Fixed]] Forwarded Audio does not show pics in chat<br />
+&bull; [[Fixed]] Blocked Calls stay in notification bug<br />
+&bull; [[Fixed]] Emoji not showing correctly in contact status<br />
+&bull; [[Fixed]] White time color issue in Media bubble<br />
+&bull; [[Fixed]] Download Button goes below navbar in Status<br />
+&bull; [[Fixed]] Hide Dividers option not applying in Status tab<br />
+&bull; [[Fixed]] Security holes in Conversation lock<br />
+&bull; [[Fixed]] RTL languages overlap in Dribble and Dribble V2 entries<br />
+&bull; [Misc] More bug fixes and improvements!
+</p></div>
+<li>
+<div class="collapsible-header"><i class="material-icons">whatshot</i>V7.70</div>
+<div class="collapsible-body"><p><b>Date: </b> 18-October-2018<br /><br />
+&bull; [Base Update] 2.18.293<br />
+&bull; [Exclusive] Know which new messages are deleted in chat (ðŸš«)!
+</br>Note: Anti-Delete must be activated (Fouad Mods > Privacy > Anti-Delete messages)<br />
+&bull; [Enabled] Swipe to reply!<br />
+&bull; [Enabled] Group calls<br />
+&bull; [Enabled] Forwarded messages label<br />
+&bull; [Enabled] PiP - Watch YouTube videos without leaving Whatsapp!<br />
+&bull; [Enabled] Suspicious Link<br />
+&bull; [[Added]] Increase send docuemnts size limit to 1 GB<br />
+&bull; [[Added]] Increase Delete For Everyone limit 10x (11 hrs)<br />
+&bull; [[Added]] Increased Forward select limit (for indian users)<br />
+&bull; [[Added]] Increased Multicast to 100<br />
+&bull; [[Added]] Voice note bar color (Option 3.1.28)<br />
+&bull; [[Added]] Voice note play button color (Option 3.1.29)<br />
+&bull; [[Added]] Support for themes with Home wallpaper in YoThemes Store<br />
+&bull; [[Added]] "Forwarded" tag automatically takes color<br />
+&bull; [[Fixed]] Per chat wallpaper (Option 3.3.0)<br />
+&bull; [[Fixed]] Proximity Sensor Option (5.0.4)<br />
+&bull; [[Fixed]] Call a number empty number crash<br />
+&bull; [[Fixed]] Elapsed time<br />
+&bull; [Improved] Lock Screen orientation (Portrait only)<br />
+&bull; [Improved] Moved Copy button instead of translate<br />
+&bull; [Temporary] Disabled pic outside for Audio messages <br />
+&bull; [Removed] Amiri Font<br />
+&bull; [] Other reported bugs
+</p></div>
+<li>
+<div class="collapsible-header"><i class="material-icons">access_alarm</i>V7.60</div>
+<div class="collapsible-body"><p><b>Date: </b> 12-August-2018<br /><br />
+&bull; [Base Update] 2.18.203<br />
+&bull; [[Added]] Hide Chat - Hike style<br />
+&bull; [[Added]] Hide chat options: Notifications, Sound, Shake WhatsApp name<br />
+&bull; [[Added]] Hide chat change Fingerprint/PIN/Pattern option<br />
+&bull; [[Added]] Imessage Style in Action Bar <br />
+&bull; [[Added]] Selected Tab Underline color (option 2.1.11)<br />
+&bull; [[Added]] Line color between chats in Main Screen (option 2.1.12)<br />
+&bull; [[Added]] Date Pending Message color in Main Screen (option 2.1.13)<br />
+&bull; [[Added]] Date Color in Main Screen (option 2.1.14)<br />
+&bull; [[Added]] Mention color in Main Screen (option 2.1.15)<br />
+&bull; [[Added]] Documents Text Color in Chat Screen (option 3.1.32)<br />
+&bull; [[Added]] Mention color in Chat Screen (option 3.1.33)<br />
+&bull; [[Added]] Voice note play button color (option 3.1.30)<br />
+&bull; [[Added]] Voice note play bar (option 3.1.329)<br />
+&bull; [[Added]] Forward icon color (option 3.1.25)<br />
+&bull; [[Added]] Forward background color (options 3.1.26)<br />
+&bull; [[Added]] Participants Color (Option 3.1.31)<br />
+&bull; [[Added]] New Facebook emojis<br />
+&bull; [Enabled] "Mark as Read" from notification<br />
+&bull; [Enabled] "Select all" option chats in Home screen<br />
+&bull; [Enabled] Specific Media Visibility for Groups! Option to choose to show a group media in gallery or hide it.<br />
+&bull; [Enabled] Save chats to a file! (Chat Menu > More > export chat)<br />
+&bull; [[Added]] All names in home/status/calls now take same color<br />
+&bull; [[Added]] 4 new entries (thanks RC)<br />
+&bull; [[Added]] 5-minutes increase status instead of 45 seconds limit (Option 1.3.11)<br />
+&bull; [Improved] Russian, Arabic, Turkish Translation<br />
+&bull; [Improved] Pics Outside Chat bubbles<br />
+&bull; [[Fixed]] Status Download button disappears under navbar<br />
+&bull; [[Fixed]] Download Text status copies incorrect status<br />
+&bull; [[Fixed]] Dribble and DribbleV2 entries text go behind send icon<br />
+&bull; [[Fixed]] Contact name does not take system font<br />
+&bull; [] Other bug fixes and improvements
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">mic</i>V7.50-7.51</div>
+<div class="collapsible-body"><p><b>Date: </b> 07-July-2018<br /><br />
+&bull; [Enabled] Group Settings - Send Messages (Once Enabled Only Admin can Send Messages in Group)<br />
+&bull; [[Added]] One Month Expiry Date<br />
+&bull; [Base Update] 2.18.122 - Play Store<br />
+&bull; [Enabled] One touch voice note recording! (Press and swipe up)<br />
+&bull; [[Added]] Contacts screen automatically takes theme colors<br />
+&bull; [[Added]] Change CHAT tab unread counter background (2.1.4)<br />
+&bull; [[Added]] Change CHAT tab unread counter text color (2.1.5)<br />
+&bull; [[Added]] Two New Entry IOS,Line (Credit To RICHAR CORREA)<br />
+&bull; [[Added]] Lock Wallpaper Preview after choosing<br />
+&bull; [[Added]] Preview Entries Style Before Applying<br />
+&bull; [[Added]] Selected Tab Underline color (option 2.1.11)<br />
+&bull; [[Added]] Line color between chats in Main Screen (option 2.1.12)<br />
+&bull; [[Added]] Date Pending Message color in Main Screen (option 2.1.13)<br />
+&bull; [[Added]] Date Color in Main Screen (option 2.1.14)<br />
+&bull; [[Added]] Mention color in Main Screen (option 2.1.15)<br />
+&bull; [[Added]] Documents Text Color in Chat Screen (option 3.1.32)<br />
+&bull; [[Added]] Mention color in Chat Screen (option 3.1.33)<br />
+&bull; [[Added]] Voice note play button color (option 3.1.30)<br />
+&bull; [[Added]] Voice note play bar (option 3.1.329)<br />
+&bull; [[Added]] Forward icon color (option 3.1.25)<br />
+&bull; [[Added]] Forward background color (options 3.1.26)<br />
+&bull; [[Added]] Participants Color (Option 3.1.31)<br />
+&bull; [[Added]] OnePlus (Slate) font (1.2.0)<br />
+&bull; [[Added]] Old Stock (2016) Entry style(3.2.3)<br />
+&bull; [[Added]] YoWA Entry extra attachements button (documents, etc...) <br />
+&bull; [[Added]] Attach button in WANH entry<br />
+&bull; [Improved] Re-organised Home Screen colors in Option 2.1<br />
+&bull; [Enabled] Group Description - Working.<br />
+&bull; [Enabled] Group Settings - Activated.<br />
+&bull; [Re-Enabled] Last seen on home screen by default<br />
+&bull; [[Fixed]] White themes caller name not showing<br />
+&bull; [[Fixed]] Android KitKat calls crash<br />
+&bull; [[Fixed]] Share 100 images from gallery to whatsapp<br />
+&bull; [[Fixed]] error when setting lock wallpaper for some devices<br />
+&bull; [[Fixed]] Disable Android Oreo 8.0+ heads-up (If does not work, go to Apps > FMWhatsApp > Change "Importance" to "default")<br />
+&bull; [] Other bugs fixes and Improvements
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">format_paint</i>V7.40</div>
+<div class="collapsible-body"><p><b>Date: </b> 12-Mar-2018<br /><br />
+&bull; [Base Update] 2.18.65 - Play Store<br />
+&bull; [SUPER-EXCLUSIVE] Set Image as background for Home screen! (Option 1.1.2 > photo)<br />
+&bull; [Exclusive] Choose to place picture next to All/First/Last bubble (Option 3.4.6)<br />
+&bull; [Exclusive] My picture in conversation outside/inside (Options 3.4.1)<br />
+&bull; [Exclusive] My picture in groups outside/inside (Option 3.4.3)<br />
+&bull; [[Added]] Preview Entries Style Before Applying<br />
+&bull; [[Added]] Selected Tab Underline color (option 2.1.11)<br />
+&bull; [[Added]] Line color between chats in Main Screen (option 2.1.12)<br />
+&bull; [[Added]] Date Pending Message color in Main Screen (option 2.1.13)<br />
+&bull; [[Added]] Date Color in Main Screen (option 2.1.14)<br />
+&bull; [[Added]] Mention color in Main Screen (option 2.1.15)<br />
+&bull; [[Added]] Documents Text Color in Chat Screen (option 3.1.32)<br />
+&bull; [[Added]] Mention color in Chat Screen (option 3.1.33)<br />
+&bull; [[Added]] Voice note play button color (option 3.1.30)<br />
+&bull; [[Added]] Voice note play bar (option 3.1.329)<br />
+&bull; [[Added]] Forward icon color (option 3.1.25)<br />
+&bull; [[Added]] Forward background color (options 3.1.26)<br />
+&bull; [[Added]] Participants Color (Option 3.1.31)<br />
+&bull; [[Added]] Call Blocker/Who can call me option (Calls > Menu)<br />
+&bull; [[Added]] White Navigation bar support for Android 8.0+<br />
+&bull; [[Added]] Azerbaijani langauge (Option 1.3.0)<br />
+&bull; [New] YoThemes Store design (YoMods > YoThemes > Download themes)<br />
+&bull; [New] Save themes now automatically also creates theme .zip file!<br />
+&bull; [Updated] Brazilian Portuguese (pt-br) translation<br />
+&bull; [[Fixed]] Duplicate New Call FAB<br />
+&bull; [[Fixed]] Particaipant nickname not getting coloured in group<br />
+&bull; [[Fixed]] Messages text size not working for Arabic langauge<br />
+&bull; [[Fixed]] Trick to bypass WhatsApp lock from YoWidget<br />
+&bull; [[Fixed]] HSV Color options not showing on Android 8.0+<br />
+&bull; [[Fixed]] YoWidget not showing properly for Arabic language phones (RTL)<br />
+&bull; [[Fixed]] White Statusbar causes viewing Images to be cropped at bottom<br />
+&bull; [[Fixed]] Bugs with many Entry styles (Aran, Rounded, Simple, etc...)<br />
+&bull; [[Fixed]] Load theme does not apply wallpaper<br />
+&bull; [[Fixed]] WhatsApp big size on some phones<br />
+&bull; [Improved] FAB now moves to right in RTL langauges<br />
+&bull; [Improved] Overall speed<br />
+&bull; [] Other bugs fixes and Improvements
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">widgets</i>V7.35-7.36</div>
+<div class="collapsible-body"><p><b>Date: </b> 7-Feb-2017<br /><br />
+&bull; [[Fixed]] Bugs reported in older version<br />
+&bull; [[Fixed]] Some ticks,bubbles<br />
+&bull; [[Added]] 2 New Entry Hello Kity Entry,Paper Entry<br />
+&bull; [] Other bugs fixes and Improvements
+&bull; [Base Update] 2.18.9 - Play Store<br />
+&bull; [SUPER-EXCLUSIVE] Contact Picture Outside message bubble (Options 3.4)!<br />
+&bull; [[Added]-FINALLY] YoWA Widget! (Last Seen On/Off, unread messages count, and more!!)<br />
+&bull; [[Added]] Option to put contact pic Inside bubble (3.4.2)<br />
+&bull; [[Added]] 6 New Entries Style<br />
+&bull; [[Fixed]] The Launcher Icons Size<br />
+&bull; [[Added]] Selected Tab Underline color (option 2.1.9)<br />
+&bull; [[Added]] Line color between chats in Main Screen (option 2.1.10)<br />
+&bull; [[Added]] Date Pending Message color in Main Screen (option 2.1.11)<br />
+&bull; [[Added]] Date Color in Main Screen (option 2.1.12)<br />
+&bull; [[Added]] Mention color in Main Screen (option 2.1.13)<br />
+&bull; [[Added]] Documents Text Color in Chat Screen (option 3.1.32)<br />
+&bull; [[Added]] Mention color in Chat Screen (option 3.1.33)<br />
+&bull; [[Added]] Voice note play button color (option 3.1.34)<br />
+&bull; [[Added]] Forward icon color (option 3.1.25)<br />
+&bull; [[Added]] Forward background color (options 3.1.26)<br />
+&bull; [[Added]] Participants Color (Option 3.1.32)<br />
+&bull; [[Added]] "New Call" FAB in Calls Screen<br />
+&bull; [[Added]] Widget preview while coloring (Option 8)!<br />
+&bull; [[Added]] Widget Background Color (Option 8.0.0)<br />
+&bull; [[Added]] Widget Contact Name Text Color (Option 8.0.1)<br />
+&bull; [[Added]] Widget Status/Unread Message Text Color (Option 8.0.2)<br />
+&bull; [[Added]] Indonesian language to In-Convo translation<br />
+&bull; [Improved] Hide Media From gallery (Option 7)<br />
+&bull; [Improved] Hide dividers (Option 2.3.5), now works in all screens (home, status, calls, contacts..)<br />
+&bull; [[Fixed]] More fixes for icon counter (badge)<br />
+&bull; [[Fixed]] End Call hang in some phones<br />
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">wb_sunny</i>V7.20-7.21</div>
+<div class="collapsible-body"><p><b>Date: </b>02-Jan-2018 (Happy new year)<br /><br />
+&bull; [Base Update] 2.17.427<br />
+&bull; [EXCLUSIVE-BETA] Media Privacy! Hide WhatsApp Media (Images/Videos/GIFs) from phone gallery (Fouad Mods > Option 7)!<br />
+&bull; [Exclusive] Switch between old and new emojis (Option 1.3.2)<br />
+&bull; [Exclusive] [Fixed] delay in Custom Hide second tick for CONTACTS<br />
+&bull; [[Added]] Selected Tab Underline color (option 2.1.9)<br />
+&bull; [[Added]] Line color between chats in Main Screen (option 2.1.10)<br />
+&bull; [[Added]] Date Pending Message color in Main Screen (option 2.1.11)<br />
+&bull; [[Added]] Date Color in Main Screen (option 2.1.12)<br />
+&bull; [[Added]] Mention color in Main Screen (option 2.1.13)<br />
+&bull; [[Added]] Documents Text Color in Chat Screen (option 3.1.32)<br />
+&bull; [[Added]] Mention color in Chat Screen (option 3.1.33)<br />
+&bull; [[Added]] Recent update text color in Story Screen (option 2.1.6)<br />
+&bull; [[Added]] Page title text color (option 2.1.7)<br />
+&bull; [[Added]] Page selected title color (option 2.1.8)<br />
+&bull; [[Added]] Voice note play button color (option 3.1.34)<br />
+&bull; [[Added]] Forward icon color (option 3.1.25)<br />
+&bull; [[Added]] Forward background color (options 3.1.26)<br />
+&bull; [[Added]] Participants Color (Option 3.1.32)<br />
+&bull; [New] Lock Design<br />
+&bull; [[Added]] New Emojis<br />
+&bull; [[Added]] Option to remove custom privacy for a contact (Fouad Mods > Privacy > Custom privacy)<br />
+&bull; [[Added]] Recent/Viewed bar background color in Status (Option 2.1.9)<br />
+&bull; [[Added]] Recent/Viewed bar text color in Status (Option 2.1.10)<br />
+&bull; [[Added]] Change colour of message counter text colour (Option 2.1.2)<br />
+&bull; [[Added]] Option to disable vibration in pattern (Option 6.0.6)<br />
+&bull; [Enabled] Search in Storage usage<br />
+&bull; [Enabled] Group members search (when members > 10)<br />
+&bull; [Enabled] Group admin settings, waiting server activation<br />
+&bull; [Improved] Custom Privacy changing randomly (Please check Fouad Mods > Privacy > Custom privacy)<br />
+&bull; [Improved] Swipe to exit<br />
+&bull; [Improved] Speed entering the conversation<br />
+&bull; [[Fixed]] [Fixed] choosing lock wallpaper for some phones (Option 6.0.4)<br />
+&bull; [[Fixed]] Opening Verified contacts info<br />
+&bull; [] Other bugs fixes and Improvements
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">verified_user</i>V7.15</div>
+<div class="collapsible-body"><p><b>Date: </b>22-Nov-2017<br /><br />
+&bull; [Exclusive] Custom Hide name for contact/group (Click on name > Hide contact name)<br />
+&bull; [Exclusive] Disable notification while playing voice notes (Option 1.3.10)<br />
+&bull; [[Added]] Locked chat messages will be hidden in Widget<br />
+&bull; [[Added]] Back You can Play Videos in your Favourite externel app (Example: MX player or any other video player)(Option 5.0.4)<br />
+&bull; [[Added]] 4 New Cr Bubbles and some PNGs (Credit To Richar Correra)<br />
+&bull; [[Added]] Gradient to Recent Updated Background<br />
+&bull; [[Fixed]] Slow and lag when scrolling<br />
+&bull; [[Fixed]] WhatsApp size (data) getting bigger<br />
+&bull; [[Fixed]] Widget bypass WhatsApp Lock/locked conversations<br />
+&bull; [] Other bugs fixes and Speed Improvements </br>
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">flash_on</i>V7.10</div>
+<div class="collapsible-body"><p><b>Date: </b> 12-Nov-2017<br /><br />
+&bull; [Base Update] 2.17.395<br />
+&bull; [Exclusive] Show Blue ticks after reply! (mark message as read, only when you reply!) (Fouad MODS > Privacy)<br />
+&bull; [Exclusive] Hide name of person you're talking with! (Option 3.3.3)<br />
+&bull; [Excuslive] [Added] Rescue Mode! if whatsapp crashes, Rescue Mode will be shown to give you options to fix! <br />
+&bull; [[Added]] Selected Tab Underline color (option 2.1.9)<br />
+&bull; [[Added]] Line color between chats in Main Screen (option 2.1.10)<br />
+&bull; [[Added]] Date Pending Message color in Main Screen (option 2.1.11)<br />
+&bull; [[Added]] Date Color in Main Screen (option 2.1.12)<br />
+&bull; [[Added]] Mention color in Main Screen (option 2.1.13)<br />
+&bull; [[Added]] Documents Text Color in Chat Screen (option 3.1.32)<br />
+&bull; [[Added]] Mention color in Chat Screen (option 3.1.33)<br />
+&bull; [[Added]] Recent update text color in Story Screen (option 2.1.6)<br />
+&bull; [[Added]] Page title text color (option 2.1.7)<br />
+&bull; [[Added]] Page selected title color (option 2.1.8)<br />
+&bull; [[Added]] Voice note play button color (option 3.1.34)<br />
+&bull; [[Added]] Forward icon color (option 3.1.25)<br />
+&bull; [[Added]] Forward background color (options 3.1.26)<br />
+&bull; [[Added]] Participants Color (Option 3.1.32)<br />
+&bull; [New] YoThemes Store Design<br />
+&bull; [[Added]-Finally] [Added] Gradient Colouring, with preview!<br />
+&bull; [[Added]] Custom Anti-Delete<br />
+&bull; [[Added]] Highlight a message and start typing to automatically reply!<br />
+&bull; [[Added]] New WhatsApp Emojis and new design<br />
+&bull; [[Added]] Set Recovery question to unlock forgotten PIN/Pattern (Option 6.0.0)<br />
+&bull; [[Added]] Reset Option in color dialog, to restore default colour<br />
+&bull; [[Added]] Links Preview now take same color as quoted<br />
+&bull; [[Added]] 2 new bubbles and ticks<br />
+&bull; [Enabled] See Storage usage per chat (Settings > Data and storage usage)<br />
+&bull; [Enabled] Sending Live Location, so people can see your location while moving!<br />
+&bull; [Enabled] Stickers when sending pics!<br />
+&bull; [[Fixed]] [Fixed] Sending location, now you can see Maps!<br />
+&bull; [[Fixed]] Text Status/Story download button, press download button to copy text status<br />
+&bull; [[Fixed]] Groups not showing in view all custom privacy<br />
+&bull; [[Fixed]] Online Toast not showing names<br />
+&bull; [[Fixed]] 90% White theme issues <br />
+&bull; [[Fixed]] Cleaning WhatsApp logs<br />
+&bull; [[Fixed]] WhatsApp randomly crashing when receiving messages<br />
+&bull; [[Fixed]] Home screen header not taking system font<br />
+&bull; []Moved Ticks Style to Option 3.2.3<br />
+&bull; [] [Fixed] all bugs of V7.00<br />
+&bull; [] Other bugs fixes and Improvements
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">whatshot</i>V6.90</div>
+<div class="collapsible-body"><p><b>Date: </b> 04-Oct-2018<br /><br />
+&bull; [Base update] 2.17.323 (Play Store)<br />
+&bull; [SUPER-EXCLUSIVE] Anti-Delete messages! (messages can't be deleted for you)<br />
+&bull; [EXCLUSIVE] When viewing Text status/story, click on it to copy it and freeze time!<br />
+&bull; [[Added]] New WhatsApp Emojis<br />
+&bull; [[Added]] More Bubbles And Ticks<br />
+&bull; [[Added]] Selected Tab Underline color (option 2.1.9)<br />
+&bull; [[Added]] Line color between chats in Main Screen (option 2.1.10)<br />
+&bull; [[Added]] Date Pending Message color in Main Screen (option 2.1.11)<br />
+&bull; [[Added]] Date Color in Main Screen (option 2.1.12)<br />
+&bull; [[Added]] Mention color in Main Screen (option 2.1.13)<br />
+&bull; [[Added]] Documents Text Color in Chat Screen (option 3.1.32)<br />
+&bull; [[Added]] Mention color in Chat Screen (option 3.1.33)<br />
+&bull; [[Added]] Recent update text color in Story Screen (option 2.1.6)<br />
+&bull; [[Added]] Page title text color (option 2.1.7)<br />
+&bull; [[Added]] Page selected title color (option 2.1.8)<br />
+&bull; [[Added]] Voice note play button color (option 3.1.34)<br />
+&bull; [[Added]] Forward icon color (option 3.1.25)<br />
+&bull; [[Added]] Forward background color (options 3.1.26)<br />
+&bull; [[Added]] Participants Color (Option 3.1.32)<br />
+&bull; [New] Password lock design.<br />
+&bull; [Re-Design] Xtreme Entry<br />
+&bull; [NEW] Unlimited period to "delete for everyone" for old messages! Now you can delete messages from 1+ year ago!!<br />
+&bull; [Improved] Privacy Page and settings<br />
+&bull; [[Added]] See all Custom privacy settings (YoMods > Privacy > Custom privacy) <br />
+&bull; [[Added]] Custom Hide View Status<br />
+&bull; [[Added]] Disable calls option for a single contact<br />
+&bull; [[Added]] Change contact name color in home screen (Option 2.1.5)<br />
+&bull; [[Added]] Ability to select phone number in contact info page<br />
+&bull; [[Added]] Name and status in home screen now take font style<br />
+&bull; [[Added]] Increase limit videos to GIF, up to 30 seconds<br />
+&bull; [[Fixed]] White theme header icons issue<br />
+&bull; [[Fixed]] Voice Call text colors<br />
+&bull; [[Fixed]] Forward icon not showing<br />
+&bull; [[Fixed]] YoThemes Store crashing on search<br />
+&bull; [[Fixed]] Other Bug Fixes
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">all_inclusive</i>V6.80</div>
+<div class="collapsible-body"><p><b>Eid-Special</b><br />
+&bull; [Base update] 2.17.306<br />
+&bull; [Exclusive] Calls privacy, select who can call you! (Fouad MODS > Privacy > Incoming calls)<br />
+&bull; [Exclusive] Enabled Filters when pictures/video!<br />
+&bull; [[Added]] Selected Tab Underline color (option 2.1.9)<br />
+&bull; [[Added]] Line color between chats in Main Screen (option 2.1.10)<br />
+&bull; [[Added]] Date Pending Message color in Main Screen (option 2.1.11)<br />
+&bull; [[Added]] Date Color in Main Screen (option 2.1.12)<br />
+&bull; [[Added]] Mention color in Main Screen (option 2.1.13)<br />
+&bull; [[Added]] Documents Text Color in Chat Screen (option 3.1.32)<br />
+&bull; [[Added]] Mention color in Chat Screen (option 3.1.33)<br />
+&bull; [[Added]] Recent update text color in Story Screen (option 2.1.6)<br />
+&bull; [[Added]] Page title text color (option 2.1.7)<br />
+&bull; [[Added]] Page selected title color (option 2.1.8)<br />
+&bull; [[Added]] Voice note play button color (option 3.1.34)<br />
+&bull; [[Added]] Forward icon color (option 3.1.25)<br />
+&bull; [[Added]] Forward background color (options 3.1.26)<br />
+&bull; [[Added]] Participants Color (Option 3.1.32)<br />
+&bull; [New] Password lock design.<br />
+&bull; [Re-Design] Xtreme Entry<br />
+&bull; [[Added]] Fonts Preview in Font Style<br />
+&bull; [[Added]] Android O Emojis<br />
+&bull; [[Added]] Support to zoom in/out of themes screenshots<br />
+&bull; [[Added]] Option to delete conversation media when deleting a chat (Hidden feature) <br />
+&bull; [[Added]] Option to control conversation lock in the contact/group info page<br />
+&bull; [[Added]] In-conversation Translate to Turkish <br />
+&bull; [[Added]] 6 new fonts<br />
+&bull; [[Fixed]] Pics in chat text alignment issues<br />
+&bull; [[Fixed]] Calling UI not coloring<br />
+&bull; [[Fixed]] Text overlapping icons in some Entries <br />
+&bull; [[Fixed]] GIF search window goes behind keyboard<br />
+&bull; [[Fixed]] Text(T) style not changing in text status screen<br />
+&bull; [[Fixed]] 2 icons in launcher issue<br />
+&bull; [] Other bug-fixes and improvements<br />
+&bull; [Improved] Calls screen icons now automatically takes color
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">star</i>V6.72</div>
+<div class="collapsible-body"><p><b>Date: </b> 22-Aug-2017<br /><br />
+&bull; <b>[[Added]]</b> Anti-Expiry<br />
+&bull; <b>[Removed]</b> Annoying Update WhatsApp message<br />
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">whatshot</i>V6.65-6.67</div>
+<div class="collapsible-body"><p><b>Date: </b> 21-May-2017<br /><br />
+&bull; [[Fixed]] Swipe back on some phones<br />
+&bull; [[Fixed]] option 3.1.34 and 3.1.35<br />
+&bull; [[Fixed]] The Video call stopped<br />
+&bull; [[Fixed]] Other Bug fixes<br />
+&bull; [[Fixed]] Some Entries<br />
+&bull; [[Fixed]] Bugs fixes
+&bull; [Base update] 2.17.146<br />
+&bull; [Exclusive] Swipe from left to right to exit conversations, like telegram! (Option 1.3.8)<br />
+&bull; [Exclusive] Send Full Resolution Images up to 50MB, HQ (Option 5.0.1)<br />
+&bull; [[Added]] Recent update text (option 2.1.6)<br />
+&bull; [[Added]] Page title text color (option 2.1.7)<br />
+&bull; [[Added]] Page selected title color (option 2.1.8)<br />
+&bull; [[Added]] Voice note play button (option 3.1.34)<br />
+&bull; [[Added]] Forward icon (option 3.1.25)<br />
+&bull; [[Added]] Forward background (options 3.1.26)<br />
+&bull; [[Added]] Missed call text (option 3.1.27)<br />
+&bull; [[Added]] Missed call icon (option 3.1.28)<br />
+&bull; [[Added]] Missed call bubble (option 3.1.29)<br />
+&bull; [[Added]] Date Divider text color (option 3.1.30)<br />
+&bull; [[Added]] Date Bubble (option 3.1.31)<br />
+&bull; [[Added]] Participants Color (Option 3.1.32)<br />
+&bull; [[Added]] Pics in Chat (Options 3.4.0 .. 3.4.6)<br />
+&bull; [[Added]] Seperate Option for Navigation bar color (Option 1.1.4)<br />
+&bull; [[Added]] Option to choose Pin/Pattern for conversation lock<br />
+&bull; [New] Pattern lock design. (you have to re set any current lock).<br />
+&bull; [[Fixed]] Mention in all Entry styles<br />
+&bull; [[Fixed]] White background when replying (all entries)<br />
+&bull; [[Fixed]] Archived Chats background color<br />
+&bull; [[Fixed]] Other Bug fixes<br />
+&bull; [] Speed Improvements
+<hr />
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">star</i>V6.55</div>
+<div class="collapsible-body"><p><b>Date: </b> 31-Mar-2017<br /><br />
+&bull; [Base update] 2.17.111<br />
+&bull; [Exclusive] Save Stories Videos/Images!!<br />
+&bull; [Exclusive] Send any file type (zip, rar, apk, exe, etc..)<br />
+&bull; [Exclusive] Pinned Chats (Long click on chat and click pin icon)<br />
+&bull; [[Added]] Load Theme to choose theme (xml) from sdcard<br />
+&bull; [[Added]] Forward icon (option 3.25) <br />
+&bull; [[Added]] Forward Background (option 3.26) <br />
+&bull; [[Added]] Missed Call Text (option 3.27) <br />
+&bull; [[Added]] Missed Call Icon (option 3.28) <br />
+&bull; [[Added]] Missed Call Bubble (option 3.29) <br />
+&bull; [[Added]] Date Divider Text Color (option 3.30) <br />
+&bull; [[Added]] Date Bubble (option 3.31) <br />
+&bull; [[Added]] Participants Color (Option 3.32) <br />
+&bull; [[Added]] Change Quote Colors (Options: 3.1.18, ..., 3.1.21)<br />
+&bull; [[Added]] Change Emoji header color (Option 3.1.22)<br />
+&bull; [[Added]] Change Emoji header icons color (Option 3.1.23)<br />
+&bull; [[Added]] Change Emoji picker background color (Option 3.1.24)<br />
+&bull; [[Added]] Support to disable heads-up in Android 7.0+ (Option 1.3.5)<br />
+&bull; [[Added]] WhatsApp Round icon<br />
+&bull; [[Fixed]] Android 7.1.1 Shortcuts<br />
+&bull; [[Fixed]] In-conversation Translation<br />
+&bull; [Updated] In-App Language changer Translations<br />
+&bull; [] [Fixed] Crash on some phones<br />
+&bull; [] Speed Improvements<br />
+<hr />
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">star</i>V6.40</div>
+<div class="collapsible-body"><p><b>Date: </b> 06-Mar-2017<br /><br />
+&bull; <b>[Base Update]</b> 2.17.81<br />
+&bull; <b>[[Added]]</b> Quoted Divider Color (Option 3.1.18) <br />
+&bull; <b>[[Added]]</b> Quoted Name Color (Option 3.1.19) <br />
+&bull; <b>[[Added]]</b> Quoted Message Color (Option 3.1.20) <br />
+&bull; <b>[[Added]]</b> Quoted Background Color (Option 3.1.21) <br />
+&bull; <b>[[Added]]</b> Participants Color (Option 3.1.22) <br />
+ &bull; <b>[Exclusive]</b> Hide View Status/Story Privacy<br />
+&bull; <b>[Exclusive]</b> Set Status video upto 5 minutes!!<br />
+&bull; <b>[Exclusive]</b> Set Profile Picture as wallpaper (Option 3.3.1)<br />
+&bull; <b>[[Added]]</b> New Emojis <br />
+&bull; <b>[[Added]]</b> New Story/Status working<br />
+&bull; <b>[[Added]]</b> Recent colors<br />
+&bull; <b>[[Added]]</b> Aranbor Bubbles<br />
+&bull; <b>[New]</b> Stock Conversation entry UI<br />
+&bull; <b>[New]</b> FAB in Status screen<br />
+&bull; <b>[[Fixed]]</b> ContactStatus showing in groups<br />
+&bull; <b>[[Fixed]]</b> Always online not working on some phones<br />
+&bull; <b>[[Fixed]]</b> Online toast not showing unsaved numbers<br />
+&bull; <b>[[Fixed]]</b> Random Bold text in Home screen<br />
+&bull; <b>[[Fixed]]</b> Bugs fixes and speed improvements<br />
+&bull; <b>[Improved]</b> Change Lock wallpaper (Option 6.0.6)<br />
+&bull; <b>[]</b> Both old Status (text) and new Status (Story) enabled<br />
+<hr />
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">spellcheck</i>V6.35</div>
+<div class="collapsible-body"><p><b>Date: </b> 31-Jan-2017<br /><br />
+&bull; <b>[Base Update]</b> 2.17.24 Play store<br />
+&bull; <b>[New]</b> Privacy-Only Mode (see YoMods Top-right)<br />
+&bull; <b>[New]</b> Android Nougat 7.1 Shortcuts<br />
+&bull; <b>[[Added]]</b> Change Hyperlinks color (Option 3.1.17)<br />
+&bull; <b>[[Added]]</b> Lock access to YoWA from Widget, when it's locked <br />
+&bull; <b>[[Fixed]]</b> Actionbar color (Option 3.1.0)<br />
+&bull; <b>[[Fixed]]</b> Themes Wallpaper not applying<br />
+&bull; <b>[[Fixed]]</b> Elapsed time for Arabic users<br />
+&bull; <b>[[Fixed]]</b> Bugs [Fixed], no more FCs<br />
+&bull; <b>[Improved]</b> No need to restart YoWA to apply changes :)<br />
+&bull; <b>[Improved]</b> Faster Contact Online Toast <br />
+&bull; <b>[Improved]</b> Restore theme automatically restarts<br />
+&bull; <b>[Improved]</b> In-conversation Translating<br />
+&bull; <b>[Improved]</b> HTTPs encryption with YoWA Servers<br />
+&bull; <b>[Finally-[Fixed]]</b> Invite button in contacts<br />
+&bull; <b>[Misc]</b> Enough talking... Discover yourself ;)<br />
+&bull; <b>[[Fixed]]</b> Square Photo Corners (Option 2.2.3)<br />
+&bull; <b>[[Fixed]]</b> Hyperlink color (Option 3.1.17)<br />
+&bull; <b>[[Fixed]]</b> Search GIF cannot select<br />
+&bull; <b>[[Fixed]]</b> In-conversation Translation<br />
+&bull; <b>[[Fixed]]</b> Incosistent Blue ticks<br />
+&bull; <b>[[Fixed]]</b> Fab Background Animation (Option 4.0.4) <br />
+&bull; <b>[[Fixed]]</b> Bugs fixes
+<hr />
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">place</i>V6.11</div>
+<div class="collapsible-body"><p><b>Date: </b> 11-Jan-2017<br /><br />
+&bull; <b>[[Added]]</b> More Bubbles And Ticks</br>
+&bull; <b>[[Fixed]]</b> The Video Call in some Phones</br>
+&bull; <b>[[Fixed]]</b> The Apply Themes in some Phones </br>
+&bull; <b>[[Fixed]]</b> Some fonts and some bubbles</br>
+&bull; <b>[[Fixed]]</b> custom name when create app shortcut</br>
+&bull; <b>[[Fixed]]</b> Other Fixes...</br>
+<hr />
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">done_all</i>V6.10</div>
+<div class="collapsible-body"><p><b>Date: </b> 05-Jan-2017<br /><br />
+&bull; Base: 2.16.363<br />
+&bull; MORE SPEEEEEED everywhere<br />
+&bull; <b>[NEW]</b> YoSettings UI and Re-organized<br />
+&bull; <b>[New]</b> Colors preview next to Colors options in YoMods<br />
+&bull; <b>[NEW]</b> Developer message, enable me to send messages to YoWA users easily!<br />
+&bull; <b>[[Added]]</b> 1.3.1 Emoji Changer/variant<br />
+&bull; <b>[[Added]]</b> New Donate/Support options<br />
+&bull; <b>[[Added]]</b> Automatic detects bright colors and change statusbar icons<br />
+&bull; <b>[[Added]]</b> Translate Option for Changelog and Developer messages<br />
+&bull; <b>[[Added]]</b> Allo Ticks and 3D bubbles<br />
+&bull; <b>[[Added]/[Fixed]]</b> .... Alot of things! Too long to write! Discover it yourself<br />
+&bull; <b>[Misc]</b> YoWhatsApp is now decompile-able and you can make mods<br />
+&bull; <b>[[Added]]</b> Confirm before applying theme, prevent applying theme by mistake<br />
+&bull; <b>[[Fixed]]</b> com.yowhatsapp Themes<br />
+&bull; <b>[[Fixed]]</b> com.yowhatsapp video call/video/GIF crash (90%)<br />
+&bull; <b>[[Fixed]]</b> Downloading Theme Wallpaper multiple times<br />
+&bull; <b>[[Fixed]]</b> 1.3.4 Conversation Cards, now shows names<br />
+&bull; <b>[[Fixed]]</b> 1.3.7 Always online<br />
+&bull; <b>[[Fixed]]</b> 1.3.6 Disable Heads-up Notification<br />
+&bull; <b>[[Fixed]]</b> 3.1.1 Conversation Background color<br />
+&bull; <b>[[Fixed]]</b> 3.3.0 Custom Wallpaper per contact<br />
+<hr />
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">control_point</i>V5.11</div>
+<div class="collapsible-body"><p><b>Date: </b> 17-Dec-2016<br /><br />
+&bull; <b>[[Added]]</b> Option 2.2.1 Enable/Disable new UI; (return contacts tab)</br>
+&bull; <b>[[Added]]</b> Allo Ticks </br>
+&bull; <b>[[Fixed]]</b> Crash when changing phone language </br>
+&bull; <b>[[Fixed]]</b> Sending video crash com.fmwhatsapp</br>
+&bull; <b>[[Fixed]]</b> Wallpaper per contact crash (on low memory devices)</br>
+<hr />
+</p></div>
+</li>
+<li>
+<div class="collapsible-header"><i class="material-icons">filter_vintage</i>V5.00</div>
+<div class="collapsible-body"><p><b>Date: </b>27-Nov-2016<br /><br />
+&bull; <b>[UPDATE]</b> Base update to 2.16.363</br>
+&bull; <b>[NEW]</b> All mods code re-worked and optimized... YoWA is now EXTREMELY faster and no lags!</br>
+&bull; <b>[NEW]</b> NO ADS! Ads-free; All in-app Ads removed =)</br>
+&bull; <b>[[Added]]</b> Start Converstation/Send message to any number (FAB)</br>
+&bull; <b>[[Added]]</b> Check Elapsed Time will be applied in Home Screen and In-Conversation header! </br>
+&bull; <b>[[Added]]</b> Removed all low-storage restrictions (can record, take pic) even if storage available is 1mb </br>
+&bull; <b>[[Added]]</b> Removed all suspicious media/documents restrictions</br>
+&bull; <b>[[Added]]</b> All hidden features (New UI, GIF search, status, doodle, video call, big emoji, etc...)</br>
+&bull; <b>[[Added]]</b> Option to make Phone call (Dial)</br>
+&bull; <b>[[Added]]</b> Splash Screen</br>
+&bull; <b>[[Added]]</b> Elapsed time</br>
+&bull; <b>[[Added]]</b> Multipls chats/cards option (multi task)</br>
+&bull; <b>[[Added]]</b> Options to choose active FAB buttons </br>
+&bull; <b>[[Added]]</b> Option to change Unread Message Indicator background</br>
+&bull; <b>[[Added]]</b> Audio/Vido Call statusbar coloring</br>
+&bull; <b>[[Added]]</b> Option to share YoWA with your friends!!</br>
+&bull; <b>[[Added]]</b> Changelog</br>
+&bull; <b>[[Fixed]]</b> No Scroll lag with Contact Online status in Home </br>
+&bull; <b>[[Fixed]]</b> Disapperaing Tab on White color</br>
+&bull; <b>[[Fixed]]</b> Themes install multiple times</br>
+&bull; <b>[[Fixed]]</b> Search crash on Themes Server</br>
+&bull; <b>[[Fixed]]</b> Status bar not coloring</br>
+&bull; <b>[[Fixed]]</b> Increased limit for sending all media files to 1GB </br>
+&bull; <b>[[Fixed]]</b> Tabs indicator and slider color changes dynamically!</br>
+&bull; <b>[[Fixed]]</b> Old UI space bug (option 2.2)</br>
+&bull; <b>[[Fixed]]</b> Back indicator not coloring in conversation header</br>
+&bull; <b>[[Fixed]]</b> other bug fixes</br>
+&bull; <b>[[Fixed]]</b> 5.4 and 5.5, since they were causing voice note issues</br>
+&bull; <b>[Misc]</b> Use YoWA and discover it for yourself :)</br>
+</p></div>
+</li>
+</ul>
+</body>
+</html>
