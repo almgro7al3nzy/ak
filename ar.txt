@@ -1,4 +1,4 @@
-{"version_code":453520,
+{"version_code":204309009,
 "AdsTitle":"المطور",
 "content":"
 <p  style='text-align: center'><font color='red'><b>تابع اخر تحديثات تطبيق الواتساب بلس عبر قناة التلجرام</b></font></p>
@@ -7,4 +7,4 @@
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://t.me/Abo2Msh3al",
 "CancelLable": true,
-"AdsTime":2880}
+"AdsTime":1}
