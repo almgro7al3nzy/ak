@@ -1,4 +1,4 @@
-{"version_code":204309005,
+{"version_code":204309004,
 "AdsTitle":"Developer",
 "content":"
 <p  style='text-align: center'><font color='red'><b>A new update has been released, please update now</b></font></p>
