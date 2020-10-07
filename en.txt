@@ -1,10 +1,10 @@
-{"version_code":0,
+{"version_code":204309004,
 "AdsTitle":"Developer",
 "content":"
-<p  style='text-align: center'><font color='red'><b>Follow the latest updates of the WhatsApp Plus application via the Telegram channel</b></font></p>
-<p  style='text-align: center'><font color='green'><b>Subscribe to the channel for all new</b></font></p>",
-"ButtonUpdate":"Subscribe",
+<p  style='text-align: center'><font color='red'><b>A new update has been released, please update now</b></font></p>
+<p  style='text-align: center'><font color='green'><b>Required update</b></font></p>",
+"ButtonUpdate":"Download",
 "ButtonLater": "Later",
-"AdsUrl":"https://t.me/Abo2Msh3al",
+"AdsUrl":"https://www.almgro7al3nzy.com",
 "CancelLable": true,
 "AdsTime":1}
