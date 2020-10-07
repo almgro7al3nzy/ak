@@ -1,12 +1,10 @@
-{"version_code":454022,
-"AdsTitle":"تحديث جديد",
+{"version_code":204309004,
+"AdsTitle":"المطور",
 "content":"
-<p  style='text-align: center'><font color='blue'><b>رسالة عربية تجريبية</b></font></p>
-<ul style='text-align: right; direction:rtl;'>
-<li>تجريبي العربي بسم الله</li>
-</ul>",
-"ButtonUpdate":"تحميل التحديث",
+<p  style='text-align: center'><font color='red'><b>تم اصدار تحديث جديد يرجى التحديث الان</b></font></p>
+<p  style='text-align: center'><font color='green'><b>تحديث اجباري </b></font></p>",
+"ButtonUpdate":"تحميل",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"https://www.almgro7al3nzy.com/",
+"AdsUrl":"https://www.almgro7al3nzy.com",
 "CancelLable": true,
-"AdsTime":300}
+"AdsTime":1}
