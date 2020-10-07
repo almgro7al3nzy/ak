@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'55', 'ver3':'\nUpdate validity extension\n', 'dli':'https://www.almgro7al3nzy.com/ak'}
+{'ver1':'8', 'ver2':'66', 'ver3':'\nRepair update\nExtending the life of the copy\nAnd adding features\nتحديث اصلاح\nتمديد عمر النسخة\nواضافة مميزات\n', 'dli':'http://bit.ly/Web-akmods', 'exp66':'170'}
