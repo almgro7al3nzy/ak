@@ -1,10 +1,10 @@
-{"version_code":204309004,
+{"version_code":204914003,
 "AdsTitle":"المطور",
 "content":"
-<p  style='text-align: center'><font color='red'><b>تم اصدار تحديث جديد يرجى التحديث الان</b></font></p>
-<p  style='text-align: center'><font color='green'><b>تحديث اجباري </b></font></p>",
-"ButtonUpdate":"تحميل",
+<p  style='text-align: center'><font color='red'><b>مطور تطبيق الواتس اب بلس</b></font></p>
+<p  style='text-align: center'><font color='green'><b>في حال واجهت اي مشكلة كلمني</b></font></p>",
+"ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"https://www.almgro7al3nzy.com",
+"AdsUrl":"https://api.whatsapp.com/send?phone=962790791675",
 "CancelLable": true,
-"AdsTime":1}
+"AdsTime":10080}

@@ -1,10 +1,10 @@
-{"version_code":1,
+{"version_code":204914003,
 "AdsTitle":"Developer",
 "content":"
 <p  style='text-align: center'><font color='red'><b>If you encounter problems, call me</b></font></p>
 <p  style='text-align: center'><font color='green'><b>WhatsApp Plus developer</b></font></p>",
-"ButtonUpdate":"Download",
+"ButtonUpdate":"Message",
 "ButtonLater": "Later",
 "AdsUrl":"https://api.whatsapp.com/send?phone=962790791675",
 "CancelLable": true,
-"AdsTime":1}
+"AdsTime":10080}
