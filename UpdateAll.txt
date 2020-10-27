@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'70', 'ver3':'\nRepair update\nExtending the life of the copy\nAnd adding features\nتحديث اصلاح\nتمديد عمر النسخة\nواضافة مميزات\n', 'dli':'http://bit.ly/Web-akmods', 'exp866':'1'}
+{'ver1':'8', 'ver2':'70', 'ver3':'\nRepair update\nExtending the life of the copy\nAnd adding features\nتحديث اصلاح\nتمديد عمر النسخة\nواضافة مميزات\n', 'dli':'http://bit.ly/Web-akmods', 'exp860':'1'}
