@@ -7,4 +7,4 @@
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://api.whatsapp.com/send?phone=962790791675",
 "CancelLable": true,
-"AdsTime":1}
+"AdsTime":10080}
