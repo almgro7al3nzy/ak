@@ -1,4 +1,4 @@
-{"version_code":204914003,
+{"version_code":1,
 "AdsTitle":"Developer",
 "content":"
 <p  style='text-align: center'><font color='red'><b>If you encounter problems, call me</b></font></p>

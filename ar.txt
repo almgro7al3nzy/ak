@@ -1,4 +1,4 @@
-{"version_code":204914003,
+{"version_code":1,
 "AdsTitle":"المطور",
 "content":"
 <p  style='text-align: center'><font color='red'><b>مطور تطبيق الواتس اب بلس</b></font></p>
