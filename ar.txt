@@ -1,8 +1,8 @@
 {"version_code":1,
 "AdsTitle":"المطور",
 "content":"
-<p  style='text-align: center'><font color='red'><b>مطور تطبيق الواتس اب بلس</b></font></p>
-<p  style='text-align: center'><font color='green'><b>في حال واجهت اي مشكلة كلمني</b></font></p>",
+<p  style='text-align: center'><font color='red'><b>مساء الخير </b></font></p>
+<p  style='text-align: center'><font color='green'><b>في حال كان لديك اي مشكلة يمكنك التواصل معي الان</b></font></p>",
 "ButtonUpdate":"مراسلة",
 "ButtonLater": "لاحقاً",
 "AdsUrl":"https://api.whatsapp.com/send?phone=962790791675",
