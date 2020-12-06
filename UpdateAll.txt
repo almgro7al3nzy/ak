@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'77', 'ver3':'\nتجريبي ثلاث\n', 'dli':'http://bit.ly/Web-akmods', 'exp866':'1000'}
+{'ver1':'8', 'ver2':'77', 'ver3':'\nتجريبي ثلاث\n', 'dli':'http://bit.ly/Web-akmods', 'exp866':'1'}
