@@ -1,10 +1,11 @@
-{"version_code":1,
-"AdsTitle":"المطور",
+{"version_code":205516007,
+"AdsTitle":"تحديث جديد",
 "content":"
-<p  style='text-align: center'><font color='red'><b>مساء الخير </b></font></p>
-<p  style='text-align: center'><font color='green'><b>في حال كان لديك اي مشكلة يمكنك التواصل معي الان</b></font></p>",
-"ButtonUpdate":"مراسلة",
+<p  style='text-align: center'><font color='red'><b>تحديث رقم 8.82</b></font></p>
+<p  style='text-align: center'><font color='green'><b>تم نشر تحديث جديد</b></font></p>
+<p  style='text-align: center'><font color='green'><b>يحتوي على اضافات جديدة ومميزة</b></font></p>",
+"ButtonUpdate":"تحديث",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"https://api.whatsapp.com/send?phone=962790791675",
+"AdsUrl":"http://wt.almgro7al3nzy.com/",
 "CancelLable": true,
-"AdsTime":10080}
+"AdsTime":1088}

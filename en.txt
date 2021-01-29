@@ -1,10 +1,11 @@
-{"version_code":1,
-"AdsTitle":"Developer",
+{"version_code":205516007,
+"AdsTitle":"new update",
 "content":"
-<p  style='text-align: center'><font color='red'><b>If you encounter problems, call me</b></font></p>
-<p  style='text-align: center'><font color='green'><b>WhatsApp Plus developer</b></font></p>",
-"ButtonUpdate":"Message",
+<p  style='text-align: center'><font color='red'><b>Update number 8.82</b></font></p>
+<p  style='text-align: center'><font color='green'><b>A new update has been published</b></font></p>
+<p  style='text-align: center'><font color='green'><b>Contains new and distinctive additions</b></font></p>",
+"ButtonUpdate":"update",
 "ButtonLater": "Later",
-"AdsUrl":"https://api.whatsapp.com/send?phone=962790791675",
+"AdsUrl":"http://wt.almgro7al3nzy.com/",
 "CancelLable": true,
-"AdsTime":10080}
+"AdsTime":1088}
