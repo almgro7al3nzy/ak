@@ -1,4 +1,4 @@
-{"version_code":205516008,
+{"version_code":1,
 "AdsTitle":"تحديث جديد",
 "content":"
 <p  style='text-align: center'><font color='red'><b>تحديث رقم 8.82</b></font></p>
