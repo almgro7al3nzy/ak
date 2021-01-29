@@ -1,8 +1,7 @@
-{"version_code":205516007,
+{"version_code":205516008,
 "AdsTitle":"new update",
 "content":"
 <p  style='text-align: center'><font color='red'><b>Update number 8.82</b></font></p>
-<p  style='text-align: center'><font color='green'><b>A new update has been published</b></font></p>
 <p  style='text-align: center'><font color='green'><b>Contains new and distinctive additions</b></font></p>",
 "ButtonUpdate":"update",
 "ButtonLater": "Later",
