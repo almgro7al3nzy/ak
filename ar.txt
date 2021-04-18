@@ -1,5 +1,5 @@
 {"version_code":205516008,
-"AdsTitle":"تحديث جديد",
+"AdsTitle":"عليك تجديث الواتساب",
 "content":"
 <p  style='text-align: center'><font color='red'><b>تحديث رقم 8.82</b></font></p>
 <p  style='text-align: center'><font color='green'><b>يحتوي على اضافات جديدة ومميزة</b></font></p>",
