@@ -1,10 +1,10 @@
-{"version_code":205516008,
+{"version_code":210422007,
 "AdsTitle":"عليك تجديث الواتساب",
 "content":"
-<p  style='text-align: center'><font color='red'><b>تحديث رقم 8.82</b></font></p>
-<p  style='text-align: center'><font color='green'><b>يحتوي على اضافات جديدة ومميزة</b></font></p>",
+<p  style='text-align: center'><font color='red'><b>تحديث رقم 8.90</b></font></p>
+<p  style='text-align: center'><font color='green'><b>يحتوي على اضافات جديدة ومميزة يجب عليك التحديث في اسرع وقت النسخة التي تستخدمها اصبحت قديما جدا الرجاء تحديث النسخة الان</b></font></p>",
 "ButtonUpdate":"تحديث",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"http://wt.almgro7al3nzy.com/",
+"AdsUrl":"https://bit.ly/3xwmflZ",
 "CancelLable": true,
 "AdsTime":1088}
