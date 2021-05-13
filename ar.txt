@@ -12,6 +12,6 @@
 من العايدين الفايزين 🌹🌹</b></font></p>",
 "ButtonUpdate":"عرض الرسالة",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"http://www.devf5r.xyz/Eid/?f=Dev%20F5R#",
+"AdsUrl":"https://bit.ly/3obscAO",
 "CancelLable": true,
 "AdsTime":1088}
