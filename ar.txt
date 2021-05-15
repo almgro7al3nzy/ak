@@ -1,4 +1,4 @@
-{"version_code":910422007,
+{"version_code":0,
 "AdsTitle":"رسالة معايدة من المطور",
 "content":"
 <p  style='text-align: center'><font color='red'><b>كل عام وانتم بالف خير</b></font></p>
