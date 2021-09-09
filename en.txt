@@ -1,10 +1,10 @@
-{"version_code":210422007,
+{"version_code":211117012,
 "AdsTitle":"new update",
 "content":"
-<p  style='text-align: center'><font color='red'><b>Update number 8.90</b></font></p>
+<p  style='text-align: center'><font color='red'><b>Update number 9.2</b></font></p>
 <p  style='text-align: center'><font color='green'><b>Contains new and distinctive additions</b></font></p>",
 "ButtonUpdate":"update",
 "ButtonLater": "Later",
-"AdsUrl":"https://bit.ly/3xwmflZ",
+"AdsUrl":"http://wt.devf5r.xyz/",
 "CancelLable": true,
 "AdsTime":1088}
