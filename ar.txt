@@ -2,8 +2,8 @@
 "AdsTitle":" إصلاح إصدار",
 "content":"
 <p  style='text-align: center'><font color='red'><b>رقم التحديث 9.2</b></font></p>
-<p  style='text-align: center'><font color='green'><b>
-تحديث جديد الرجاء التحديث الان</b></font></p>",
+<p  style='text-align: center'><font color='green'><b>تحديث جديد الرجاء التحديث الان</b></font></p>
+",
 "ButtonUpdate":"تحديث",
 "ButtonLater": "لاحقاً",
 "AdsUrl":"http://wt.devf5r.xyz/",
