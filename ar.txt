@@ -1,5 +1,5 @@
 {"version_code":0,
-"AdsTitle":"تحديث جديد",
+"AdsTitle":" إصلاح إصدار",
 "content":"
 <p  style='text-align: center'><font color='red'><b>رقم التحديث 9.2</b></font></p>
 <p  style='text-align: center'><font color='green'><b>
