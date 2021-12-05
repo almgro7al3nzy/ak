@@ -1,4 +1,4 @@
-{"version_code":211117012,
+{"version_code":0,
 "AdsTitle":"new update",
 "content":"
 <p  style='text-align: center'><font color='red'><b>Update number 9.2</b></font></p>
