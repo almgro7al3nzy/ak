@@ -4,6 +4,7 @@
 <p  style='text-align: center'><font color='red'><b>repair update</b></font></p>
 <p  style='text-align: center'><font color='green'><b>The update message issue has been fixed</b></font></p>
 <p  style='text-align: center'><font color='green'><b>Please update and the annoying update message will not appear again</b></font></p>
+<p  style= text-align: center ><font color= red ><b>This version will be discontinued within 24 hours</b></font></p>
 ",
 "ButtonUpdate":"update",
 "ButtonLater": "Later",
