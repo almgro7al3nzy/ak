@@ -1,10 +1,13 @@
-{"version_code":0,
+{"version_code":211921066,
 "AdsTitle":" إصلاح إصدار",
 "content":"
-<p  style='text-align: center'><font color='red'><b>رقم التحديث 9.2</b></font></p>
-<p  style='text-align: center'><font color='green'><b>تحديث جديد الرجاء التحديث الان</b></font></p>",
+<p  style='text-align: center'><font color='red'><b>تحديث اصلاحي</b></font></p>
+<p  style='text-align: center'><font color='green'><b>تم اصلاح مشكلة رسالة التحديث</b></font></p>
+<p  style='text-align: center'><font color='green'><b>الرجاء التحديث ولن تظهر رسالة التحديث المزعجة مره اخرى</b></font></p>
+
+",
 "ButtonUpdate":"تحديث",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"http://wt.devf5r.xyz/",
+"AdsUrl":"https://www.almgro7al3nzy.com/?p=484",
 "CancelLable": true,
 "AdsTime":1088}
