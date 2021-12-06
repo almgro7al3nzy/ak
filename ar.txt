@@ -4,7 +4,7 @@
 <p  style='text-align: center'><font color='red'><b>تحديث اصلاحي</b></font></p>
 <p  style='text-align: center'><font color='green'><b>تم اصلاح مشكلة رسالة التحديث</b></font></p>
 <p  style='text-align: center'><font color='green'><b>الرجاء التحديث ولن تظهر رسالة التحديث المزعجة مره اخرى</b></font></p>
-
+<p  style= text-align: center ><font color= red ><b>سوف يتم  ايقاف هذه النسخة خلال 24 ساعه </b></font></p>
 ",
 "ButtonUpdate":"تحديث",
 "ButtonLater": "لاحقاً",
