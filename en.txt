@@ -1,10 +1,12 @@
-{"version_code":0,
+{"version_code":211921066,
 "AdsTitle":"fix version",
 "content":"
-<p  style='text-align: center'><font color='red'><b>Update number 9.2</b></font></p>
-<p  style='text-align: center'><font color='green'><b>Contains new and distinctive additions</b></font></p>",
+<p  style='text-align: center'><font color='red'><b>repair update</b></font></p>
+<p  style='text-align: center'><font color='green'><b>The update message issue has been fixed</b></font></p>
+<p  style='text-align: center'><font color='green'><b>Please update and the annoying update message will not appear again</b></font></p>
+",
 "ButtonUpdate":"update",
 "ButtonLater": "Later",
-"AdsUrl":"http://wt.devf5r.xyz/",
+"AdsUrl":"https://www.almgro7al3nzy.com/?p=484",
 "CancelLable": true,
-"AdsTime":1088}
+"AdsTime":100}
