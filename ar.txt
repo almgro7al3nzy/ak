@@ -1,13 +1,13 @@
 {"version_code":211921066,
-"AdsTitle":" إصلاح إصدار",
+"AdsTitle":تحديث",
 "content":"
-<p  style='text-align: center'><font color='red'><b>تحديث اصلاحي</b></font></p>
-<p  style='text-align: center'><font color='green'><b>تم اصلاح مشكلة رسالة التحديث</b></font></p>
-<p  style='text-align: center'><font color='green'><b>الرجاء التحديث ولن تظهر رسالة التحديث المزعجة مره اخرى</b></font></p>
-<p  style= text-align: center ><font color= red ><b>سوف يتم  ايقاف هذه النسخة خلال 24 ساعه </b></font></p>
+<p  style='text-align: center'><font color='red'><b>V 9.52 </b></font></p>
+<p  style='text-align: center'><font color='green'><b>تحديث جديد متاح</b></font></p>
+<p  style='text-align: center'><font color='green'><b>يمكن الان التحديث مباشر من موقعنا </b></font></p>
+<p  style= text-align: center ><font color= red ><b>Abbas Aleinzy ✈ </b></font></p>
 ",
 "ButtonUpdate":"تحديث",
 "ButtonLater": "لاحقاً",
-"AdsUrl":"https://www.almgro7al3nzy.com/?p=484",
+"AdsUrl":"http://bit.ly/3Ll0xYs",
 "CancelLable": true,
-"AdsTime":100}
+"AdsTime":1800}
