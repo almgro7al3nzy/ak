@@ -1,9 +1,9 @@
-{"version_code":211921066,
+{"version_code":220273020,
 "AdsTitle":"fix version",
 "content":"
 <p  style='text-align: center'><font color='red'><b>repair update</b></font></p>
 <p  style='text-align: center'><font color='green'><b>New update available</b></font></p>
-<p  style='text-align: center'><font color='green'><b>Please update and the annoying update message will not appear again</b></font></p>
+<p  style='text-align: center'><font color='green'><b>You can now update directly from our website</b></font></p>
 <p  style= text-align: center ><font color= red ><b>This version will be discontinued within 24 hours</b></font></p>
 ",
 "ButtonUpdate":"update",
