@@ -10,4 +10,4 @@
 "ButtonLater": "Later",
 "AdsUrl":"https://www.almgro7al3nzy.com/?p=484",
 "CancelLable": true,
-"AdsTime":1800}
+"AdsTime":180}
