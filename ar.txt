@@ -1,4 +1,4 @@
-{"version_code":225273020,
+{"version_code":220273020,
 "AdsTitle":تحديث",
 "content":"
 <p  style='text-align: center'><font color='red'><b>V 9.52 </b></font></p>
