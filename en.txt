@@ -1,4 +1,4 @@
-{"version_code":220273020,
+{"version_code":225273020,
 "AdsTitle":"fix version",
 "content":"
 <p  style='text-align: center'><font color='red'><b>repair update</b></font></p>
