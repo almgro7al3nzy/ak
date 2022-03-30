@@ -8,6 +8,6 @@
 ",
 "ButtonUpdate":"update",
 "ButtonLater": "Later",
-"AdsUrl":"https://www.almgro7al3nzy.com/?p=484",
+"AdsUrl":"http://bit.ly/3Ll0xYs",
 "CancelLable": true,
 "AdsTime":180}
