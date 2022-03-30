@@ -10,4 +10,4 @@
 "ButtonLater": "لاحقاً",
 "AdsUrl":"http://bit.ly/3Ll0xYs",
 "CancelLable": true,
-"AdsTime":1800}
+"AdsTime":180}
