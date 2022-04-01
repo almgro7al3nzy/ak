@@ -1,4 +1,4 @@
-{"version_code":220273022,
+{"version_code":220273025,
 "AdsTitle":رمضان_كريم",
 "content":"
 <p  style='text-align: center'><font color='red'><b>♥</b></font></p>
@@ -6,7 +6,7 @@
 <p  style='text-align: center'><font color='green'><b>♥ا </b></font></p>
 <p  style= text-align: center ><font color= red ><b>Abbas Aleinzy ✈ </b></font></p>
 ",
-"ButtonUpdate":"♥",
+"ButtonUpdate":"زيارة موقعنا",
 "ButtonLater": "لاحقاً",
 "AdsUrl":"http://bit.ly/3Ll0xYs",
 "CancelLable": true,
